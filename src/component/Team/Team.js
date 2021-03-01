@@ -14,12 +14,12 @@ const Team = (props) => {
                 <table className="table-info">
                     <tr>
                         <th>Player Name</th>
-                        <th>Designated</th>
+                        <th>Role</th>
                         <th>Annual Salary</th>
                     </tr>
                     {teamPlayers.map(teamNewPlayer => (
                         <tr> <td>{teamNewPlayer.name}</td>
-                            <td>{teamNewPlayer.designated}</td>
+                            <td>{teamNewPlayer.role}</td>
                             <td>₹{teamNewPlayer.salary}</td> </tr>
                     ))}
                     <tr className="total-budget">
