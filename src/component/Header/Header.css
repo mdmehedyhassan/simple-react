@@ -1,0 +1,9 @@
+.logo{
+    height: 100px;
+}
+.main-header{
+    text-align: center;
+    padding-top: 20px ;
+    margin-bottom: 20px;
+    background-color: rgb(188, 202, 232);
+}

@@ -1,0 +1,129 @@
+[{
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "image": "https://i.ibb.co/8cg9F57/shakib.jpg",
+    "age": 33,
+    "designated": "All-rounder",
+    "salary": 32000000,
+    "nationality": "Bangladesh"
+}, {
+    "id": 2,
+    "name": "Steve Smith",
+    "image": "https://i.ibb.co/8cTw2Zy/smith.jpg",
+    "age": 31,
+    "designated": "Batsman",
+    "salary": 22000000,
+    "nationality": "Australia"
+}, {
+    "id": 3,
+    "name": "Glenn Maxwell",
+    "image": "https://i.ibb.co/Zgqt1MN/maxwell.png",
+    "age": 32,
+    "designated": "All-rounder",
+    "salary": 142500000,
+    "nationality": "Australia"
+}, {
+    "id": 4,
+    "name": "Mustafizur Rahman",
+    "image": "https://i.ibb.co/N1JDwqX/mostafizur.jpg",
+    "age": 25,
+    "designated": "Bowler",
+    "salary": 10000000,
+    "nationality": "Bangladesh"
+}, {
+    "id": 5,
+    "name": "Moeen Ali",
+    "image": "https://i.ibb.co/7g7RCd4/moeen.jpg",
+    "age": 33,
+    "designated": "All-rounder",
+    "salary": 70000000,
+    "nationality": "England"
+}, {
+    "id": 6,
+    "name": "Shivan Dube",
+    "image": "https://i.ibb.co/1XWxdZ5/shivam-dube.jpg",
+    "age": 27,
+    "designated": "All-rounder",
+    "salary": 44000000,
+    "nationality": "India"
+}, {
+    "id": 7,
+    "name": "Chris Morris",
+    "image": "https://i.ibb.co/4g7v0x6/morris.jpg",
+    "age": 33,
+    "designated": "Bowler",
+    "salary": 162500000,
+    "nationality": "South Africa"
+}, {
+    "id": 8,
+    "name": "Dawid Malan",
+    "image": "https://i.ibb.co/YZX7K97/dawid-malan-2.jpg",
+    "age": 33,
+    "designated": "Batsman",
+    "salary": 15000000,
+    "nationality": "England"
+}, {
+    "id": 9,
+    "name": "Jhye Richardson",
+    "image": "https://i.ibb.co/KLBXgVw/SYDNEY-AUSTRALIA-JANUARY-12-Jhye-Richardson-with-the-Player-of-the-Match-bat-after-game-one-of-the-O.jpg",
+    "age": 24,
+    "designated": "Bowler",
+    "salary": 140000000,
+    "nationality": "Australia"
+}, {
+    "id": 10,
+    "name": "Nathan Coulter-Nile",
+    "image": "https://i.ibb.co/C69MkJV/nathan-coulter-nile.jpg",
+    "age": 33,
+    "designated": "Bowler",
+    "salary": 10000000,
+    "nationality": "Australia"
+}, {
+    "id": 11,
+    "name": "Piyush Chawla",
+    "image": "https://i.ibb.co/w4sDyLd/piyush-chawla.jpg",
+    "age": 32,
+    "designated": "Bowler",
+    "salary": 24000000,
+    "nationality": "India"
+}, {
+    "id": 12,
+    "name": "Kyle Jamieson",
+    "image": "https://i.ibb.co/kxR1TnN/kyle-jamieson.jpg",
+    "age": 26,
+    "designated": "Bowler",
+    "salary": 150000000,
+    "nationality": "New Zealand"
+}, {
+    "id": 13,
+    "name": "Tom Curran",
+    "image": "https://i.ibb.co/KXChfmq/tom-curran.jpg",
+    "age": 25,
+    "designated": "All-rounder",
+    "salary": 52500000,
+    "nationality": "England"
+}, {
+    "id": 14,
+    "name": "Moises Henriques",
+    "image": "https://i.ibb.co/ypM7GrP/moises-henriques.jpg",
+    "age": 34,
+    "designated": "All-rounder",
+    "salary": 42000000,
+    "nationality": "Australia"
+}, {
+    "id": 15,
+    "name": "Mujeeb Ur Rahman",
+    "image": "https://i.ibb.co/RpqJB02/mujeeb.jpg",
+    "age": 19,
+    "designated": "Bowler",
+    "salary": 15000000,
+    "nationality": "Afghanistan"
+}, {
+    "id": 16,
+    "name": "Tom Banton",
+    "image": "https://i.ibb.co/2Wfn1yT/banton.jpg",
+    "age": 22,
+    "designated": "Wicket-keeper",
+    "salary": 10000000,
+    "nationality": "England"
+}]

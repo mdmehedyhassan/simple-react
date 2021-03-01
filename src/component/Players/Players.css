@@ -1,0 +1,17 @@
+.player-box-div{
+    display:flex;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    border: 1px solid red;
+    border-radius: 20px;
+    background-color: rgb(197, 242, 210);
+    overflow: hidden;
+    
+}
+.player-image{
+    height: 250px;
+    width: 250px;
+}
+.player-details{
+    padding: 10px;
+}
