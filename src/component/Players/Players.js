@@ -15,10 +15,10 @@ const Players = (props) => {
             </div>
             <div className="player-details">
                 <h2>{name}</h2>
-                <h5>designated: {designated}</h5>
+                <h6>designated: {designated}</h6>
                 <p>Age: {age}</p>
                 <p>Nationality: {nationality}</p>
-                <h4>Annual Salary: ₹{salary} (Indian rupee)</h4>
+                <h5>Annual Salary: ₹{salary} (INR)</h5>
                 <Button variant="warning" onClick={()=>props.handlerAddPlayer(props.player)}><FontAwesomeIcon icon={faPlusCircle}  /> Add Player</Button>
             </div>
         </div>
