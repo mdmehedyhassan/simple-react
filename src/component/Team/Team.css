@@ -1,0 +1,12 @@
+.main-team{
+    background-color: rgb(119, 124, 191);
+    border: 1px solid red;
+    border-radius:20px;
+    padding:10px;
+}
+.team-image-div{
+    text-align: center;
+}
+.team-image-div img{
+    height: 300px;
+}

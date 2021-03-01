@@ -2,10 +2,11 @@
   display: flex;
 }
 .player-div{
-  width: 70%;
+  width: 60%;
 }
 .player-cart-buy{
-  padding: 20px;
+  padding: 10px 20px;
+  width: 40%
 }
 .App-link {
   color: #61dafb;

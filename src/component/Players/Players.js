@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee, faPlusCircle } from '@fortawesome/free-solid-svg-icons'
+import { faPlusCircle } from '@fortawesome/free-solid-svg-icons'
 import './Players.css';
 import '../Bootstrap/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
@@ -19,7 +19,7 @@ const Players = (props) => {
                 <p>Age: {age}</p>
                 <p>Nationality: {nationality}</p>
                 <h4>Annual Salary: ₹{salary} (Indian rupee)</h4>
-                <Button variant="warning"><FontAwesomeIcon icon={faPlusCircle}  /> Add Player</Button>
+                <Button variant="warning" onClick={()=>props.handlerAddPlayer(props.player)}><FontAwesomeIcon icon={faPlusCircle}  /> Add Player</Button>
             </div>
         </div>
     );
