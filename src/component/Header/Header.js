@@ -12,7 +12,7 @@ const Header = () => {
     return (
         <div className="main-header">
             <div> 
-                <h2><img src="https://i.ibb.co/hfnDDrZ/Indian-Premier-League-svg-e1487713497929.png" alt="" className="logo"/> Indian Premier League 2021 </h2>
+                <h1><img src="https://i.ibb.co/hfnDDrZ/Indian-Premier-League-svg-e1487713497929.png" alt="" className="logo"/> Indian Premier League 2021 </h1>
             </div>
             <div>
                 <Navbar bg="dark" variant="dark">

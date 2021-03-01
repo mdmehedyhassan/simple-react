@@ -4,9 +4,26 @@
     margin-bottom: 10px;
     border: 1px solid red;
     border-radius: 20px;
-    background-color: rgb(197, 242, 210);
+    background-color: #343A40;
+    color: white;
     overflow: hidden;
     
+}
+
+h1{
+    font-weight: 800;
+    color:rgb(3, 12, 143);
+}
+h2{
+    font-weight: 800;
+    color:rgb(255, 236, 94);
+}
+h3{
+    font-weight: 800;
+    color:rgb(255, 4, 4);
+    background-color:yellow;
+    padding: 10px;
+    border-radius: 10px;
 }
 .player-image{
     height: 250px;
