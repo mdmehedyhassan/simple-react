@@ -19,8 +19,8 @@ const Team = (props) => {
                     </tr>
                     {teamPlayers.map(teamNewPlayer => (
                         <tr> <td>{teamNewPlayer.name}</td>
-                        <td>{teamNewPlayer.designated}</td> 
-                        <td>₹{teamNewPlayer.salary}</td> </tr>
+                            <td>{teamNewPlayer.designated}</td>
+                            <td>₹{teamNewPlayer.salary}</td> </tr>
                     ))}
                     <tr className="total-budget">
                         <td>Total Team Budget</td>
@@ -28,8 +28,6 @@ const Team = (props) => {
                         <td>₹{totalBudget}</td>
                     </tr>
                 </table>
-
-
             </div>
             <div>
 

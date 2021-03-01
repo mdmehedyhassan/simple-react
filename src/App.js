@@ -13,8 +13,8 @@ function App() {
     setPlayer(playerData);
     console.log(playerData)
   }, [])
-  const handlerAddPlayer = (player) =>{
-    const newByePlayer =[...buyPlayer, player];
+  const handlerAddPlayer = (player) => {
+    const newByePlayer = [...buyPlayer, player];
     setBuyPlayer(newByePlayer)
   }
   return (
@@ -27,8 +27,7 @@ function App() {
           {player.map(player => <Players handlerAddPlayer={handlerAddPlayer} player={player} key={player.id}></Players>)}
         </div>
         <div className="player-cart-buy">
-          <Team buyPlayer= {buyPlayer}></Team>
-
+          <Team buyPlayer={buyPlayer}></Team>
         </div>
       </main>
     </div>
